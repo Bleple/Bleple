@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<p align="center">Hi, my name is Tea.</p>
+<hr>
+<p>I am currently working on getting a better grasp of java.</p>
+<p>I am at least somewhat proficient in C++, C#, Python, and Javascript.</p>
+<hr>
+<p>Pronouns: They/Them</p>
 <!--
 **Bleple/Bleple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
