@@ -1,7 +1,7 @@
 <p align="center">Hi, my name is Tea.</p>
 <hr>
-<p>I am currently working on getting a better grasp of java.</p>
-<p>I am at least somewhat proficient in C++, C#, Python, and Javascript.</p>
+<p>I am currently a student in college.</p>
+<p>My major is in computer science, and my minor is in design thinking.</p>
 <hr>
 <p>Pronouns: They/Them</p>
 <!--
