@@ -1,7 +1,6 @@
 <p align="center">Hi, my name is Tea.</p>
 <hr>
-<p>I am currently a student in college.</p>
-<p>My major is in computer science, and my minor is in design thinking.</p>
+<p>I am currently a college student, with a major in computer science, and minor in design thinking.</p>
 <hr>
 <p>Pronouns: They/Them</p>
 <!--
